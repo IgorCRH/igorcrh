@@ -24,4 +24,4 @@ Atualmente estudando e reaprendendo Java.
 
 ![](https://komarev.com/ghpvc/?username=igorcrh&color=green)
 
-![Snake animation](https://github.com/igorcrh/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/igorcrh/igorcrh/blob/output/github-contribution-grid-snake.svg)
