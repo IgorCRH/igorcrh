@@ -23,3 +23,5 @@ Atualmente estudando e reaprendendo Java.
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=igorcrh&color=green)
+
+![Snake animation](https://github.com/carlosgabriell/carlosgabriell/blob/output/github-contribution-grid-snake.svg)
