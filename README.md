@@ -2,7 +2,9 @@
 Atualmente estudando e reaprendendo Java.
 
 ## 🔎 Estatísticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorcrh&layout=compact&theme=highcontrast)
 
+![Igor stats](https://github-readme-stats.vercel.app/api?username=igorcrh&show_icons=true&theme=highcontrast)
 
 
 ## 🔈 Contato
