@@ -1,5 +1,5 @@
 # 🙌 Olá, meu nome é Igor, e sou estudante em Sistemas de Informação do 3º Período na Universidade Federal Rural do Rio de Janeiro, e este é o meu perfil. 🙌
-Atualmente estudando e reaprendendo Java.
+Atualmente estudando e reaprendendo Java/JavaScript.
 
 ## 🔎 Estatísticas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorcrh&layout=compact&theme=highcontrast)
