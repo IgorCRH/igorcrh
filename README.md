@@ -21,6 +21,6 @@
 ## 📑 Ferramentas
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Photoshop](https://img.shields.io/badge/adobephotoshop-1A1F71?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Visual Studio](https://img.shields.io/badge/visualstudio-CB2E6D?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-Também com SceneBuilder para JavaFX
+<br>Também com SceneBuilder para JavaFX<br>
 
 ![](https://komarev.com/ghpvc/?username=igorcrh&color=green)
