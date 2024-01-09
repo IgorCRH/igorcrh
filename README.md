@@ -1,4 +1,4 @@
-# 🙌 Olá, meu nome é Igor, e sou estudante em Sistemas de Informação do 5º Período na Universidade Federal Rural do Rio de Janeiro, buscando ser um desenvolvedor fullstack e este é o meu perfil. 🙌
+# 🙌 Olá, meu nome é Igor, e sou estudante em Sistemas de Informação do 5º Período na Universidade Federal Rural do Rio de Janeiro, com interesse em desenvolvimento fullstack, tanto em front quando back-end, e este é o meu perfil. 🙌
 
 ## 🔎 Estatísticas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorcrh&layout=compact&theme=highcontrast)
